@@ -24,7 +24,10 @@
 #ES LO QUE ESCRIBIERON EN EL PIZARRON XD lo de recursividad
 #def sol(i, nums)
 #    index = nums[i]
-#    if
+#    if index +1< len(nums):
+#        sol()
+#   else tarara
+#   return
 
 def solucion(nums):
     first_jump = nums[0]
