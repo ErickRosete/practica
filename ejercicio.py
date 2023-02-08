@@ -41,7 +41,6 @@ def solucion(nums):
 # Test a esta cosa
 
 if __name__ == "__main__":
-<<<<<<< HEAD
     solucion()
 
 #Eliasib
