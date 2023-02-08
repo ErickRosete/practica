@@ -21,9 +21,18 @@
 #El número en el que está es el número máximo de saltos que puede dar para intentar llegar al último elemento.
 #Ahora, cuantos saltos mínimos tiene que dar para llegar al final?
 
+#ES LO QUE ESCRIBIERON EN EL PIZARRON XD lo de recursividad
+#def sol(i, nums)
+#    index = nums[i]
+#    if index +1< len(nums):
+#        sol()
+#   else tarara
+#   return
+
 def solucion(nums):
     first_jump = nums[0]
     jump_index = nums[first_jump]
+    print("TENGO QUE HACER COMMITS")
     print("test")
     print("solucion")
     return 2
@@ -32,7 +41,7 @@ def solucion(nums):
 
 if __name__ == "__main__":
     solucion()
-
+#nose 
 #Eliasib
 z=1
 y=2
@@ -68,3 +77,5 @@ print(r)
 import numpy as np 
 a=np.ones((3,4,2,1,3))
 print(a)
+#Hola. Eliasib Was here
+#Adios
