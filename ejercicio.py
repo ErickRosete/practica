@@ -30,7 +30,8 @@
 # 0 <= nums[i] <= 1000
 
 
-def solucion(nums):
+def solucion(numsnums):
+    print("test")
     print("solucion")
     return 2
 
@@ -46,3 +47,4 @@ r=sqrt(y^2+z^2)
 print(r)
     nums = [2, 3, 1, 1, 4]
     solucion(nums)
+    solucion
