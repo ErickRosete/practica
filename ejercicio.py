@@ -31,6 +31,7 @@
 # 0 <= nums[i] <= 1000
 
 #El número en el que está es el número máximo de saltos que puede dar para intentar llegar al último elemento.
+#Ahora, cuantos saltos mínimos tiene que dar para llegar al final?
 
 def solucion(nums):
     for i in range (len(nums)):
@@ -38,8 +39,18 @@ def solucion(nums):
     print("test")
     return 2
 
+def sol(num):
+    # buscar los números más altos a los que podría llegar 
+    return 
+
 # Test a esta cosa
 
 if __name__ == "__main__":
-    nums = [2,3,0,1,4]
     solucion()
+
+#Eliasib
+z=1
+y=2
+r=sqrt(y^2+z^2)
+print(r)
+
