@@ -41,5 +41,12 @@ def solucion(nums):
 # Test a esta cosa
 
 if __name__ == "__main__":
-    nums = [2,3,0,1,4]
+<<<<<<< HEAD
     solucion()
+
+#Eliasib
+z=1
+y=2
+r=sqrt(y^2+z^2)
+print(r)
+
