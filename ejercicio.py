@@ -32,6 +32,7 @@
 def solucion(nums):
     first_jump = nums[0]
     jump_index = nums[first_jump]
+    print("TENGO QUE HACER COMMITS")
     print("test")
     print("solucion")
     return 2
