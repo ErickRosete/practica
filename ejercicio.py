@@ -80,5 +80,6 @@ print(r)
 import numpy as np 
 a=np.ones((3,4,2,1,3))
 print(a)
+b=np.ones((1,2,3,4,5))
 #Hola. Eliasib Was here
 #Adios
