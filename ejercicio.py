@@ -64,3 +64,7 @@ import numpy as np
 r=np.sqrt(y^2+z^2)
 print(r)
 
+#Alioth
+import numpy as np 
+a=np.ones((3,4,2,1,3))
+print(a)
