@@ -40,7 +40,7 @@ def solucion(nums):
 
 if __name__ == "__main__":
     solucion()
-
+#nose 
 #Eliasib
 z=1
 y=2
