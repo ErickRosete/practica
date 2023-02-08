@@ -33,8 +33,9 @@
 #El número en el que está es el número máximo de saltos que puede dar para intentar llegar al último elemento.
 
 def solucion(nums):
+    for i in range (len(nums)):
+        print (nums(i))
     print("test")
-    print("solucion")
     return 2
 
 # Test a esta cosa
