@@ -1,4 +1,3 @@
-
 # Example 1:
 
 # Input: nums = [2,3,1,1,4]
@@ -22,6 +21,14 @@
 #El número en el que está es el número máximo de saltos que puede dar para intentar llegar al último elemento.
 #Ahora, cuantos saltos mínimos tiene que dar para llegar al final?
 
+#ES LO QUE ESCRIBIERON EN EL PIZARRON XD lo de recursividad
+#def sol(i, nums)
+#    index = nums[i]
+#    if index +1< len(nums):
+#        sol()
+#   else tarara
+#   return
+
 def solucion(nums):
     first_jump = nums[0]
     jump_index = nums[first_jump]
@@ -34,13 +41,14 @@ def solucion(nums):
 
 if __name__ == "__main__":
     solucion()
-
+#nose 
 #Eliasib
 z=1
 y=2
 r=sqrt(y^2+z^2)
 print(r)
 
+#no tengo ninguna contribucion significativa- antonio
 
 #⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 #⠸⡇⠀⠿⡀⠀⠀⠀⣀⡴⢿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -58,3 +66,11 @@ print(r)
 #⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 #⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⠿⠿⠿⠛⠉
 
+#Eliasib
+z=1
+y=2
+import numpy as np 
+r=np.sqrt(y^2+z^2)
+print(r)
+#Hola. Eliasib Was here
+#Adios
