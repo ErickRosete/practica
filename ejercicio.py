@@ -37,3 +37,9 @@ def solucion():
 
 if __name__ == "__main__":
     solucion()
+
+#Eliasib
+z=1
+y=2
+r=sqrt(y^2+z^2)
+print(r)
