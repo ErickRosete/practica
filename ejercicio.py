@@ -36,6 +36,8 @@ def solucion(nums):
     print("test")
     print("solucion")
     print("MALDITA RECURSIVIDAD")
+    print("MALDITA AYUDAA")
+
     return 2
 
 # Test a esta cosa
