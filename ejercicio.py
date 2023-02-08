@@ -31,6 +31,7 @@
 # 0 <= nums[i] <= 1000
 
 #El número en el que está es el número máximo de saltos que puede dar para intentar llegar al último elemento.
+#Ahora, cuantos saltos mínimos tiene que dar para llegar al final?
 
 def solucion(nums):
     print("test")
