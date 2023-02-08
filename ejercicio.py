@@ -30,10 +30,12 @@
 # 0 <= nums[i] <= 1000
 
 
-def solucion():
+def solucion(nums):
     print("solucion")
+    return 2
 
 # Test a esta cosa
 
 if __name__ == "__main__":
-    solucion()
+    nums = [2, 3, 1, 1, 4]
+    solucion(nums)
