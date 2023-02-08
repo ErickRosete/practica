@@ -33,11 +33,12 @@
 #El número en el que está es el número máximo de saltos que puede dar para intentar llegar al último elemento.
 
 def solucion(nums):
+    print("test")
     print("solucion")
     return 2
 
 # Test a esta cosa
 
 if __name__ == "__main__":
-    nums = [2, 3, 1, 1, 4]
-    solucion(nums)
+    nums = [2,3,0,1,4]
+    solucion()
