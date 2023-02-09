@@ -84,6 +84,9 @@ print(a)
 b=np.ones((1,2,3,4,5))
 print(a+b)
 
+c=np.array[[1,2],[3,5]]
+print(c)
+
 c=np.ones((2,4,6,8,9))
 #Hola. Eliasib Was here
 #Adios
